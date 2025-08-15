@@ -1,7 +1,7 @@
 
 # Dictionary.ipynb — Overview
 
-This notebook is a beginner-friendly guide to **Python dictionaries**, covering creation, access, modification, and advanced operations with examples.
+This notebook is a guide to **Python dictionaries**, covering creation, access, modification, and advanced operations with examples.
 
 ---
 
